@@ -4,6 +4,11 @@ export default {
         back: 'Back',
         finish: 'Finish'
     },
+    fr: {
+        next: 'Suivant',
+        back: 'Retour',
+        finish: 'Fin'
+    },
     es: {
         next: 'Siguiente',
         back: 'Atrás',
